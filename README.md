@@ -1,4 +1,4 @@
-# Olá! Me sou Denilson Lima
+# Olá! Eu sou Denilson Lima
 
 💻 **Desenvolvedor Front-end em formação**
 🎓 **Análise e Desenvolvimento de Sistemas**
